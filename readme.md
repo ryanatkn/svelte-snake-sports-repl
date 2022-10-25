@@ -1,7 +1,7 @@
 # svelte 🐍 snake 🐍 sports 🐍 repl
 
-A Svelte REPL-friendly version of
-[`@ryanatkn/svelte-snake-sports`](https://github.com/ryanatkn/svelte-snake-sports).
+A [Svelte REPL-friendly version](https://svelte.dev/repl/ebf7455697c3497ab358675de43bb1e0?version=3.52.0)
+of [`@ryanatkn/svelte-snake-sports`](https://github.com/ryanatkn/svelte-snake-sports).
 
 Install via [npm](https://www.npmjs.com/package/@ryanatkn/svelte-snake-sports-repl):
 
