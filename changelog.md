@@ -1,5 +1,11 @@
 # changelog
 
+## 0.3.1
+
+- publish first Svelte REPL-friendly version
+  of `@ryanatkn/svelte-snake-sports`
+  as `@ryanatkn/svelte-snake-sports-repl`
+
 ## 0.3.0
 
 - change `TimedScores` prop `bestTime` to no longer have a store wrapper
