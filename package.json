@@ -1,6 +1,6 @@
 {
-  "name": "@ryanatkn/svelte-snake-sports",
-  "description": "games of snake in svelte",
+  "name": "@ryanatkn/svelte-snake-sports-repl",
+  "description": "a Svelte REPL-friendly version of @ryanatkn/svelte-snake-sports",
   "license": "Unlicense",
   "version": "0.3.0",
   "type": "module",
