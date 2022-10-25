@@ -2,7 +2,7 @@
   "name": "@ryanatkn/svelte-snake-sports-repl",
   "description": "a Svelte REPL-friendly version of @ryanatkn/svelte-snake-sports",
   "license": "Unlicense",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "type": "module",
   "homepage": "https://ryanatkn.github.io/svelte-snake-sports",
   "engines": {
